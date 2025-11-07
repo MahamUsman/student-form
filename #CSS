@@ -1,0 +1,22 @@
+header{
+   text-align: center;
+   h1{
+    margin: 5px;
+   }
+}
+   #title1 {
+
+    background: rgb(226, 225, 217);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 15px;
+    margin: 10px;
+   }
+
+
+body{
+    background-color: rgb(163, 164, 99);
+    text-align: center;
+}
+
+

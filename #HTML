@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="STUDENT.CSS">
+</head>
+<body>
+
+    <header>
+<h2><b>STUDENT INFORMATION FORM</b>  </h2>
+<hr>
+</header>
+<nav id="title1">
+     <a href="https://www.google.com/search?client=opera&q=Google&sourceid=opera&ie=UTF-8&oe=UTF-8">About us</a>&nbsp;&nbsp;&nbsp;
+     <a href="https://www.google.com/search?client=opera&q=Google&sourceid=opera&ie=UTF-8&oe=UTF-8"> Contact </a>&nbsp;&nbsp;&nbsp;
+     <a href="https://www.google.com/search?client=opera&q=Google&sourceid=opera&ie=UTF-8&oe=UTF-8">Course</a>&nbsp;&nbsp;&nbsp;
+</nav>
+<hr>
+    <img  src="image.png" alt="picture">
+    <br>
+<form id="c1">
+    <br>
+<label> Student Name: </label>&nbsp;&nbsp;&nbsp;
+<input type="text" placeholder="Enter the name ">
+<br><br>
+<label> Email: </label>&nbsp;&nbsp;&nbsp;
+<input type="text" placeholder=" Enter the email">
+<br><br>
+<lable> Roll No :</lable>&nbsp;&nbsp;&nbsp;
+<input type="numbers" placeholder="Enter your Id">
+<br><br>
+<label> Course:</label>&nbsp;&nbsp;&nbsp;
+<select>
+    <option> BSCS</option>
+    <option>BSSE</option>
+    <option>BSIT</option>
+    <option>BBA</option>
+    <option>BS English</option>
+    <option>BS Urdu</option>
+    <option>BS Physics</option>
+    <option>BS Mathematic</option>
+</select>
+<br><br>
+<label> Gender: </label>&nbsp;&nbsp;&nbsp;
+<input type="radio">Female&nbsp;&nbsp;&nbsp;
+<input type="radio">Male
+<br>
+</form>
+<br>
+    
+    <button> Login </button>
+    <button> Submit</button>
+
+
+   
+
+   </header> 
+</body>
+</html>
